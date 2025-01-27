@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735855889 source:j:\my drive\3rd sem\nm\lab reports\lab 1\main.c
+	<stdio.h>
+	<math.h>
+	<conio.h>
+
